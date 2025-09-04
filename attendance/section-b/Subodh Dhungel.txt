@@ -1,0 +1,26 @@
+Name: Subodh Dhungel
+Section: B
+ROll No :41
+Days Present:7
+
+
+Learnings:
+1.initilizing git : git init
+2 ADDING TO GIT:git add .
+3.commit: git commit -m "mesage"
+4.checking status : git status
+5. Differentating new add : git diff 
+6. Creating Branch : git branch "branch name"
+7. view all branch : git branch --all 
+8 .change branch : git checkout branch_name 
+9.merging branch :git merge branch_name 
+10. reolving merge conflicts
+11. creting git hub account
+12. creating git repo
+13. seetting up global user name : git config --global user.name"name"
+14. setting up global user email : git config --globlal user.email"sdgel.com"
+15.pushing to github
+16. pulling from github
+17. collaborate in github
+18. git fork
+19. hosting in netlify.
