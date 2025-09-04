@@ -2,7 +2,7 @@ Name: Subodh Dhungel
 Section: B
 ROll No :41
 Days Present:7
-
+netlify: http://thriving-banoffee-cabc4d.netlify.app/
 
 Learnings:
 1.initilizing git : git init
