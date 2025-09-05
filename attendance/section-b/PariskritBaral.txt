@@ -2,6 +2,7 @@ Name: Pariskrit Baral
 Section: B
 Roll No: 22
 Days Present: 6
+Netlify site url: https://gilded-sunflower-05f1c7.netlify.app/
 
 Learnings:
 
