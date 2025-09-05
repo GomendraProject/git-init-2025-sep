@@ -1,0 +1,12 @@
+Name: Pranish Adhikari
+Section: A
+Roll No: 26
+Days present: 6
+
+Learnings
+-----------------
+
+Learned using git through git bash 
+Pushing ,Pull Request and Forking 
+connecting git and git hub
+hosting a website through netlify 
