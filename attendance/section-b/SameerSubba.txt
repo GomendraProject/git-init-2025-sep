@@ -1,0 +1,10 @@
+Name:Sameer Subba
+Section:B
+Roll No:34
+Days present:6
+Netlify site URl :sameer30.netlify.app
+
+
+Learnings
+-----------------
+I learnt about git, git commands, github and to deploy projects in Netlify.
