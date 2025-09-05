@@ -1,0 +1,21 @@
+Name: Ikshya Kerung
+Section: 'A'
+Roll No: 14
+Days present: 6
+
+Learnings
+> Local git
+  1. Download git bash
+  2. Initialize in a folder with git [creating a repository]
+  3. Basic git commands
+    - git config
+    - git status
+    - git diff
+    - git add
+    - git commit
+    - git log
+
+> Remote git
+  1. Establishing a link with remote site [github]
+      git remote add origin <link>
+  2. 
