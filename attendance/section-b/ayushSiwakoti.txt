@@ -1,0 +1,8 @@
+Name: Ayush Siwakoti
+Section: B
+Roll No: 06
+Days Present: 6
+Netlify site url:
+
+Learnings
+I learnt about git, git's command, GitHub.
