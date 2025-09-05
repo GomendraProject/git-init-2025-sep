@@ -1,0 +1,49 @@
+Name: Sapan Raya
+Section: A
+Roll No: 36
+Days present: 6 days
+Netlify site url: https://68bb0601ce1a01000829e30d--adorable-gaufre-0a7bdb.netlify.app/
+
+
+Learnings:
+		Despite being a BCA student ,I didn't knew much about GitHub even though it was a necessary tool which a developer needed. Even though many of my friends including me were a complete beginner on the topic, but our respected mentor Kushal sir didn't care much about our knowledge and taught us from the very basic step.
+
+Day 1:
+	 On the first day we learned about how we can install git from git-scm website. After that we learned how to open git and initialize a repository using the command git init and showed us some basic commands.
+
+Day 2:
+	On the second day, we continued with more basic Git commands. Our mentor patiently explained how to use commands like git status, git add, and git commit to track and save changes in our project. We also practiced how to view what changes are made by using the command git diff. These small but powerful commands helped us understand how Git keeps track of everything in our project folder.
+
+Day 3:
+	By the third day, we had practiced those basic commands so much that we had mastered them confidently. We were able to create files, add changes, commit them, and view the history without confusion. It felt satisfying to realize how much progress we had made in just three days. By the completion of day 3 using Git started to feel natural and started to realize how easy it was.
+
+Day 4:
+	The fourth day was mainly focused on branching and merging. We learned how to create new branches, switch between them, and merge them back into the main branch. Our mentor also taught and showed different examples about branch conflicts — it happens when two branches modify the same part of the same file differently or one branch deletes a file while the other modifies it. And we also learned on how to solve it — Open the file and decide which version to keep(Keep one side, combine both, or rewrite whole).
+
+Day 5:
+	On the fifth day, we learned how to sign in to GitHub and connect our local Git repositories with GitHub. We practiced important commands like git push to upload changes and git pull to bring changes from GitHub to our computer. This day was very exciting because we were now able to share our code online and collaborate just like real developers.
+
+Day 6:
+	The final day was the most interesting because e explored how to host a website using the tools we had learned. With the help of AI(Chatgpt), Git, GitHub, and Netlify, we built and deployed a simple personal website. It was amazing to see our project go live on the internet. This day gave us confidence that what we learned throughout the workshop can be used in practical, real-world projects.
+
+
+
+Despite the teaching of mentor i have still a few confusion on the topics
+
+
+-> Resolving merge conflicts – to handle changes safely in collaborative work.
+
+-> Using .gitignore 
+
+-> Reverting changes – to safely undo mistakes without affecting other work.
+
+-> Commit messages – to learn how to write clear and meaningful messages.
+ 
+-> Solving branch conflicts
+
+
+
+
+
+       
+      
