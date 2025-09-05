@@ -7,3 +7,27 @@ Learnings
 -----------------
 
 git hub basic
+
+Initalizing Git : git Init
+Adding TO git : git add .
+Commit : git commit -m "message"
+Checking status :git status 
+Diffrentiating new add : git diff
+seting up global username : git config --global user.name "Name"
+seting up global email : git config --global user.email "Email"
+creating branch : git branch "branch_name"
+view all branch : git branch --all
+changing branch : git checkout branch_name
+merging branches : git merge branch_name
+resolving merge conflicts 
+creating github account
+creating repo in github 
+adding git repo to existing project : git remote add origin "https/ssh url"
+pushing to github : git push origin branch_name
+pulling from github : git pull origin branch_name
+collaboration in github
+clone git repository : git clone "https/ssh url"
+pull/push with collaborators
+git fork
+git pull request
+hosting in Netlify via github 
