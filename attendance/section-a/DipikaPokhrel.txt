@@ -1,0 +1,9 @@
+Name: Dipika Pokhrel
+Section: 'A'
+Roll no : 12
+Days present: 6
+Netlify site url: https://dipikapokhrel.netlify.app/
+Learnings :
+        --I learned how Git helps in backup, collaboration, and keeping history of projects.
+        --I practiced using commands like init, status, add, commit, log, diff, branch, merge, push, and pull.
+        --I also understood branching, merging, handling conflicts, connecting Git with GitHub, and deploying                 projects using Netlify.
