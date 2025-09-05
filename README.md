@@ -9,6 +9,3 @@ Days present:
 
 Learnings
 -----------------
-
-hgfhgfhgf
-```
