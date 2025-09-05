@@ -1,0 +1,9 @@
+Name: Bidhya Malla
+Section: A
+Roll No: 6
+Days present: 7
+
+Learnings
+-----------------
+learned git and git hub 
+learned hosting  through netlify
