@@ -1,0 +1,7 @@
+Name: Aadesh Loktam
+Section: "A"
+Roll No: 01
+Days present: Sunday to Friday
+
+learning 
+  Over the course of this 7-day workshop, I gained valuable knowledge and hands-on experience with Git and GitHub. The sessions, guided by Mr. Kushal Niroula, helped me understand version control, repository management, and effective collaboration using these tools. This experience has enhanced my technical skills and will greatly support my future projects.
