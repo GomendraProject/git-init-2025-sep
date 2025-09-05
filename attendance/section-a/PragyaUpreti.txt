@@ -1,0 +1,10 @@
+Name: Pragya Upreti
+Section: A  
+Roll No: 24
+Days present:7
+
+Learnings
+-----------------
+
+learned git and git hub 
+and deployment through netlify
