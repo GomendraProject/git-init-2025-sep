@@ -1,0 +1,7 @@
+Name: Rohan Mahato
+Section: B
+Roll No:28
+Days present:5
+
+Learnings
+git, github
