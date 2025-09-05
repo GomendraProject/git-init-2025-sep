@@ -1,0 +1,9 @@
+Name: Jiven Timsina
+Section: B
+Roll No: 
+Days present: 6
+
+Learnings:
+I have learned various Git commands such as git add, git commit, git pull, and git push,
+along with more advanced concepts like linking a local repository to a remote GitHub
+repository and deploying changes after updating the code locally.
