@@ -1,4 +1,9 @@
 Name:Sameer Subba
 Section:B
 Roll No:34
-Days present:7
+Days present:6
+
+
+Learnings
+-----------------
+I learnt about git, git commands, github and to deploy projects in Netlify.
