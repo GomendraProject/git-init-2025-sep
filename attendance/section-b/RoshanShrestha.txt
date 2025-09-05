@@ -1,0 +1,13 @@
+Name: Roshan Shrestha
+Section: B
+Roll No: 29
+Days present: 6
+Netlify site url: roshandemowebsite.netlify.app
+
+Learnings
+day-1 : basic git commands (init, status, add, commit)
+day-2 : git branching (creating branch, switching, merging, deleting)
+day-3 : solving merge conflicts, git diff, git log
+day-4 : github introduction, push and pull changes to github locally (git pull, git push, setup origin url)
+day-5 : clone, fork and pull request
+day-6 : created website using git/github and deploy using netlify
