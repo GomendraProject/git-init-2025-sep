@@ -1,0 +1,40 @@
+		Name : Darpan Adhikari
+		Sec  : B
+		Roll : 09
+
+		Days Present : 6 days
+		netlify-site: darpan-test-website.netlify.app/main.html
+
+		
+
+***Learnings***
+
+1. Install Git & configure (git config --global user.name/email)
+
+2. Create repo (git init) and check status (git status)
+
+3. Add files (git add .) and commit (git commit -m "msg")
+
+4. View history (git log, git log --oneline)
+
+5. Create GitHub repo & connect (git remote add origin <url>)
+
+6. Push code (git push -u origin main) and pull updates (git pull)
+
+7. Clone repo (git clone <url>)
+
+8. Branching (git branch, git checkout -b newbranch)
+
+9. Merge branch (git merge branchname)
+
+10. Handle conflicts (edit, then git add + git commit)
+
+11. Ignore files (.gitignore)
+
+12. Fork + Pull Request (PR) on GitHub
+
+13. Undo changes (git reset, git checkout -- file)
+
+14. Check differences (git diff)
+
+12. Connect GitHub & Netlify
