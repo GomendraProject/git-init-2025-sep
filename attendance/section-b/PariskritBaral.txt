@@ -1,0 +1,8 @@
+Name: Pariskrit Baral
+Section: B
+Roll No: 22
+Days Present: 6
+
+Learnings:
+
+I learned about Git, Git Commands, GitHub and deployment in Netlify
