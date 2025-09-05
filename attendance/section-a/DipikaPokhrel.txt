@@ -2,17 +2,8 @@ Name: Dipika Pokhrel
 Section: 'A'
 Roll no : 12
 Days present: 6
-Learnings
-1.Local git
-   -download git 
-   - Install(create a repository)
-    -commands
-        >git status
-        > git add
-        > git commit
-        > git config
-        > git log
-
-2. remote git
-   
-
+Netlify site url: https://dipikapokhrel.netlify.app/
+Learnings :
+        --I learned how Git helps in backup, collaboration, and keeping history of projects.
+        --I practiced using commands like init, status, add, commit, log, diff, branch, merge, push, and pull.
+        --I also understood branching, merging, handling conflicts, connecting Git with GitHub, and deploying                 projects using Netlify.
