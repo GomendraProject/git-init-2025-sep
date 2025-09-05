@@ -1,0 +1,15 @@
+Name: Dipesh Karki
+Section: A
+Roll No: 10
+Days present: 7
+Netlify site URL: https://steprealm.netlify.app/ 
+
+Learnings
+-----------------
+During the GitHub workshop, I learned how to use Git for managing my projects more effectively. I started with the basics, like connecting my local project to GitHub using git remote add origin. I also figured out how to check what changes I made with git diff before committing anything. Pushing my work online was a big step — first with git push --set-upstream origin master to establish the connection, and then simply using git push for updates. I also learned that git remote -v helps me see which repository my project is connected to. The concept of .gitignore was useful too, since it allows me to tell Git which files or folders I don’t want tracked. If I accidentally added something, I could use git rm --cached filename.txt to fix it. I even discovered that git remote set-URLs origin changes the remote repository’s address, which comes in handy if the repo location changes.
+
+Beyond the basics, I learned about collaboration. I now understand what a pull request is — it’s basically a way of asking someone to review and merge my changes into their project. I practiced cloning repositories from GitHub with git clone <repository-link> and made sure to keep them in a separate directory from my own work. I also found out about git revert <commit-id>, which lets me undo a commit and go back to a previous state, almost like hitting undo in coding.
+
+Finally, I learned about deployment. I successfully deployed my project using Netlify, which made my project accessible online. I also realized that if I push changes to GitHub, those changes can automatically update the deployed version. This part felt really rewarding, because it meant I could share my work with others outside of my computer.
+
+Overall, the workshop helped me understand GitHub as more than just a place to store code. It’s a tool for version control, collaboration, and even deployment. As a student, I feel like I’ve taken an important first step into real-world project management and development.
