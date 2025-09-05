@@ -14,8 +14,14 @@ Learnings
     - git add
     - git commit
     - git log
+    - git merge
 
 > Remote git
   1. Establishing a link with remote site [github]
       git remote add origin <link>
-  2. 
+  2. Push the new edited commit to github
+      git push -u origin master
+  3. Pull the content from online site.
+      git pull
+> Using Netlify to host the data from github
+
