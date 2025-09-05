@@ -1,0 +1,17 @@
+Name: Pralhad Neupane
+Section: A
+RollNo: 25
+Days Present: 6 days.
+
+Learnings:
+Initializing the repo
+add file
+commit change 
+branching
+git status, diff, log, config
+git remote origin
+git merge
+git push
+clone project
+fork and pull request
+web hosting
