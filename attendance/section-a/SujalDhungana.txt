@@ -1,0 +1,20 @@
+Name: Sujal Dhungana
+Section: A
+Roll no: 38
+Days present: All days (6)
+
+Learnings: 
+  Initializing repo,
+  adding changes, 
+  commit changes,
+  branching,
+  checking status,
+  logging commit info,
+  pushing into github,
+  forking and pull request,
+  cloning repo,
+  hosting he project,
+  setting remote origin url, 
+  basic terminal,
+  merging branches
+
