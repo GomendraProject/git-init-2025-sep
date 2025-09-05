@@ -2,3 +2,18 @@ Name: Sairash Khatiwada
 Section: A
 Roll No: 36
 Days present: 6 days
+
+Learnings:
+Initializing the repo,
+Adding the changes,
+Commiting the changes,
+Branching,
+Checking the status,
+Logging commit info,
+Pushing into github,
+Forking and Pull request,
+Cloning the repo,
+Hosting the project,
+Setting remote origin url,
+Basic Terminal,
+Merging branches.
