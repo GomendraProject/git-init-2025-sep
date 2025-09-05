@@ -1,0 +1,7 @@
+Name: Sonam Prasai
+Section: B
+Roll No: 40
+Days present: 6
+
+Learnings
+Over the course of the 6-day Git and GitHub workshop, I gained a solid understanding of version control and collaborative coding practices. I started by learning the basics of Git—how to initialize repositories, track changes, and manage file versions using commands like git init, git add, git commit, and git status. As the workshop progressed, I explored branching strategies, merging workflows, and how to resolve conflicts when multiple contributors work on the same codebase. I also learned how to use GitHub to host repositories, create pull requests, and review code collaboratively. Concepts like cloning, forking, and contributing to open-source projects were covered in depth. By the end of the workshop, I felt confident using Git and GitHub to manage projects efficiently, collaborate with others, and maintain a clean, organized development workflow.
