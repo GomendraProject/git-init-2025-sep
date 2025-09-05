@@ -10,6 +10,3 @@ Netlify site url:
 
 Learnings
 -----------------
-
-hgfhgfhgf
-```
