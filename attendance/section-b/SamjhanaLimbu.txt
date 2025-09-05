@@ -1,0 +1,10 @@
+Name: Samjhana Limbu
+Section: B
+Roll No: 35
+Days present: 6
+Netlify site url: samjhana00.netlify.app
+
+Learnings
+I learned about different git commands like git init, git push, git pull.
+I learned how to fork, make a pull request, learned about github hosting.
+also at the end of class i deployed my own website using netlify.
