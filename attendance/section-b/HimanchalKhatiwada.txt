@@ -1,0 +1,8 @@
+Name: Himanchal Khatiwada
+Section: B
+Roll No: 14
+Days present:	6 (All)
+
+Learnings
+Basics of git, github and deployment in netlify.
+
