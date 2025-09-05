@@ -1,0 +1,8 @@
+Name: Dipak Cintury
+Section:B 
+Roll No:10
+Days present:5
+Netlify site URL:https://sudip12.netlify.app/
+
+Learnings
+git, git hub
