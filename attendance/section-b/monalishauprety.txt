@@ -1,0 +1,28 @@
+Name: Monalisha Uprety
+Section: B
+Roll No: 19
+Days present: 6 days
+Netlify url: msd1245.netlify.app
+===================================================
+Learnings
+1. Basic Git Commands
+
+git init → Initialize a new Git repository.
+git add --all → Stage all changes for commit.
+git commit -m "message" → Save changes to local repo.
+git status → Check repo status.
+git clone <url> → Copy a remote repo locally.
+git remote add origin <url> → Link local repo to GitHub.
+git push -u origin main → Push commits to GitHub.
+
+2. Link Local Repo to GitHub
+
+git init → git add --all → git commit -m "Initial commit"
+git remote add origin <GitHub URL>
+git push -u origin main
+
+3. Deploy on Netlify
+Netlify → Add new site → Import from Git
+Connect GitHub → Choose repository
+Set build (if needed) → Deploy Site
+Get live link for your site
