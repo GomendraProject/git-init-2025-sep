@@ -1,0 +1,21 @@
+Name: Roman Thapa
+Section: A
+Roll No: 31
+Days Present : six
+Netlify site url: romanthapart.netlify.app
+
+Learnings:
+
+- The importance of Git and GitHub for backup, collaboration, and history.
+- How to use basic commands like git init, git status, git add, and git commit.
+- How to configure username and email in Git.
+- The process of branching and merging in a project.
+- How to handle merge conflicts and solve them.
+- Connecting local repositories to GitHub (push, pull, clone).
+- Creating and managing pull requests for collaboration.
+- Integration of GitHub with other tools like Netlify and AI.
+Suggestions
+A little more time on merge conflicts would help in understanding better.
+Hands-on practice sessions with group collaboration could add more value.
+
+I am very thankful to Kushal Niraula for guiding us patiently. The way the concepts were explained step by step made everything easier to understand. It was a very valuable and enjoyable experience. Thankyou !
