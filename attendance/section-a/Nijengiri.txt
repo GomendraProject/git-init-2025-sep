@@ -1,0 +1,18 @@
+Name:Nijen Giri 
+Section:A 
+Roll No:22
+Days present:6 days
+Netlify site url:resonant-ganache-a8620b.netlify.app
+
+ 
+
+Learnings
+Understood that Git and github.
+
+Learned about how to use git commands.
+
+Learned the steps to create a repository on GitHub.
+
+Learned how to connect local repository to GitHub using git remote add origin.
+
+Practiced pushing changes to GitHub using git push.
