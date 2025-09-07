@@ -1,0 +1,10 @@
+Name:Biswash Menyangbo Limbu
+Section:'B'
+Roll No:'30'
+Days present: All days i.e six(6)
+Netlify site url: https://biswashlimbu.netlify.app
+
+Learnings:
+*Learned the basics of git and github
+*Learned to use the git bash
+*Learned the basics of Netlify
